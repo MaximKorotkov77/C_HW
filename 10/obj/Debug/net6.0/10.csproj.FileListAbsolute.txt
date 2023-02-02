@@ -1,0 +1,15 @@
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\obj\Debug\net6.0\10.csproj.AssemblyReference.cache
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\obj\Debug\net6.0\10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\obj\Debug\net6.0\10.AssemblyInfoInputs.cache
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\obj\Debug\net6.0\10.AssemblyInfo.cs
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\obj\Debug\net6.0\10.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\bin\Debug\net6.0\10.exe
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\bin\Debug\net6.0\10.deps.json
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\bin\Debug\net6.0\10.runtimeconfig.json
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\bin\Debug\net6.0\10.dll
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\bin\Debug\net6.0\10.pdb
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\obj\Debug\net6.0\10.dll
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\obj\Debug\net6.0\refint\10.dll
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\obj\Debug\net6.0\10.pdb
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\obj\Debug\net6.0\10.genruntimeconfig.cache
+C:\Users\Maksim\Desktop\GB\III-C\HW\10\obj\Debug\net6.0\ref\10.dll
